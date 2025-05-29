@@ -3,8 +3,8 @@
 ## Model Scoring High Level User Manual
 ### Steps to Run the Scoring Pipeline Code on Local Environments Before Deploying the Code on Airflow
 
----
-Author: fintech_data_science@deliveryhero.com
+
+
 
 ---
 Preparation Work :
