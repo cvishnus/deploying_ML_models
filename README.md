@@ -8,10 +8,10 @@
 
 ---
 Preparation Work :
-- Add fintech folder to pythonpath in ~/home/.bashrc
+- Add folder where most of the files are saved to pythonpath in ~/home/.bashrc 
 Example: `export PYTHONPATH="$PYTHONPATH:/home/jupyter/projects/datahub-airflow/dags/fintech`
 
-- Change the directory:
+- Change the directory :
 `cd dags/fintech`
 
 
